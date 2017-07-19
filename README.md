@@ -1,2 +1,2 @@
 # hello-world
-this is my first time using github
+This is my first time using github. I can't believe how cool GitHub is, why have I not been using it all along?
